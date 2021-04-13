@@ -1,0 +1,33 @@
+h3 {
+    text: center;
+    padding: 20px;
+    font-family: sans-serif;
+}
+
+div.login-user.component {
+    background-image: -moz-repeating-radial-gradient();
+    width: 100%;
+    font-size: 18px;
+    border-radius: 1px solid rgba(12, 148, 211, 0.3);
+    box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.3);
+    color: rgb(14, 106, 167);
+}
+
+form#login-user.component {
+    margin: 40px;
+}
+
+label {
+    font-family: sana-serif;
+    font-size: 18px;
+    font-style: italic;
+}
+
+input#name {
+    width: 300px;
+    border: 1px solid rgb(168, 28, 28);
+    border-radius: 3px;
+    outline: 0;
+    padding: 7px;
+    background-color: rgb(23, 221, 235);
+}
